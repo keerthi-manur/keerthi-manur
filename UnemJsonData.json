@@ -1,0 +1,252 @@
+[
+  {
+    "state": "Minnesota",
+    "rate22": "1.8000",
+    "rate21": "3.3000"
+  },
+  {
+    "state": "Nebraska",
+    "rate22": 2,
+    "rate21": "2.5000"
+  },
+  {
+    "state": "New Hampshire",
+    "rate22": 2,
+    "rate21": "3.5000"
+  },
+  {
+    "state": "Utah",
+    "rate22": 2,
+    "rate21": "2.7000"
+  },
+  {
+    "state": "Vermont",
+    "rate22": "2.1000",
+    "rate21": "3.3000"
+  },
+  {
+    "state": "North Dakota",
+    "rate22": "2.3000",
+    "rate21": "3.4000"
+  },
+  {
+    "state": "South Dakota",
+    "rate22": "2.3000",
+    "rate21": "3.2000"
+  },
+  {
+    "state": "Kansas",
+    "rate22": "2.4000",
+    "rate21": "3.4000"
+  },
+  {
+    "state": "Iowa",
+    "rate22": "2.5000",
+    "rate21": "4.4000"
+  },
+  {
+    "state": "Missouri",
+    "rate22": "2.5000",
+    "rate21": "4.3000"
+  },
+  {
+    "state": "Alabama",
+    "rate22": "2.6000",
+    "rate21": "3.4000"
+  },
+  {
+    "state": "Idaho",
+    "rate22": "2.6000",
+    "rate21": "3.6000"
+  },
+  {
+    "state": "Indiana",
+    "rate22": "2.6000",
+    "rate21": "3.7000"
+  },
+  {
+    "state": "Florida",
+    "rate22": "2.7000",
+    "rate21": "4.5000"
+  },
+  {
+    "state": "Montana",
+    "rate22": "2.7000",
+    "rate21": "3.5000"
+  },
+  {
+    "state": "Rhode Island",
+    "rate22": "2.7000",
+    "rate21": 6
+  },
+  {
+    "state": "Virginia",
+    "rate22": "2.7000",
+    "rate21": "3.8000"
+  },
+  {
+    "state": "Georgia",
+    "rate22": "2.8000",
+    "rate21": "3.9000"
+  },
+  {
+    "state": "Maine",
+    "rate22": "2.8000",
+    "rate21": "4.9000"
+  },
+  {
+    "state": "Oklahoma",
+    "rate22": 3,
+    "rate21": "3.9000"
+  },
+  {
+    "state": "Wisconsin",
+    "rate22": 3,
+    "rate21": "3.8000"
+  },
+  {
+    "state": "Wyoming",
+    "rate22": 3,
+    "rate21": "4.5000"
+  },
+  {
+    "state": "South Carolina",
+    "rate22": "3.2000",
+    "rate21": 4
+  },
+  {
+    "state": "Arizona",
+    "rate22": "3.3000",
+    "rate21": "4.9000"
+  },
+  {
+    "state": "Arkansas",
+    "rate22": "3.3000",
+    "rate21": 4
+  },
+  {
+    "state": "Colorado",
+    "rate22": "3.3000",
+    "rate21": "5.6000"
+  },
+  {
+    "state": "Tennessee",
+    "rate22": "3.3000",
+    "rate21": "4.2000"
+  },
+  {
+    "state": "North Carolina",
+    "rate22": "3.4000",
+    "rate21": "4.9000"
+  },
+  {
+    "state": "Massachusetts",
+    "rate22": "3.5000",
+    "rate21": "5.7000"
+  },
+  {
+    "state": "Oregon",
+    "rate22": "3.5000",
+    "rate21": "5.1000"
+  },
+  {
+    "state": "Louisiana",
+    "rate22": "3.6000",
+    "rate21": "5.5000"
+  },
+  {
+    "state": "Mississippi",
+    "rate22": "3.6000",
+    "rate21": "5.6000"
+  },
+  {
+    "state": "Connecticut",
+    "rate22": "3.7000",
+    "rate21": "6.3000"
+  },
+  {
+    "state": "Kentucky",
+    "rate22": "3.7000",
+    "rate21": "4.8000"
+  },
+  {
+    "state": "New Jersey",
+    "rate22": "3.7000",
+    "rate21": "6.6000"
+  },
+  {
+    "state": "Washington",
+    "rate22": "3.7000",
+    "rate21": "5.2000"
+  },
+  {
+    "state": "West Virginia",
+    "rate22": "3.7000",
+    "rate21": "5.1000"
+  },
+  {
+    "state": "California",
+    "rate22": "3.9000",
+    "rate21": "7.4000"
+  },
+  {
+    "state": "Maryland",
+    "rate22": "3.9000",
+    "rate21": "6.1000"
+  },
+  {
+    "state": "Ohio",
+    "rate22": "3.9000",
+    "rate21": "5.1000"
+  },
+  {
+    "state": "Texas",
+    "rate22": 4,
+    "rate21": "5.6000"
+  },
+  {
+    "state": "Hawaii",
+    "rate22": "4.1000",
+    "rate21": "5.5000"
+  },
+  {
+    "state": "Michigan",
+    "rate22": "4.2000",
+    "rate21": "6.2000"
+  },
+  {
+    "state": "Pennsylvania",
+    "rate22": "4.3000",
+    "rate21": "6.4000"
+  },
+  {
+    "state": "Delaware",
+    "rate22": "4.4000",
+    "rate21": "5.5000"
+  },
+  {
+    "state": "Illinois",
+    "rate22": "4.4000",
+    "rate21": "6.2000"
+  },
+  {
+    "state": "Nevada",
+    "rate22": "4.4000",
+    "rate21": "6.6000"
+  },
+  {
+    "state": "New York",
+    "rate22": "4.4000",
+    "rate21": "6.9000"
+  },
+  {
+    "state": "Alaska",
+    "rate22": "4.5000",
+    "rate21": "6.5000"
+  },
+  {
+    "state": "New Mexico",
+    "rate22": "4.5000",
+    "rate21": 7
+  }
+]
