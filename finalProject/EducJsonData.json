@@ -1,0 +1,302 @@
+[
+  {
+    "state": "New Jersey",
+    "overallRank": 1,
+    "higherEducationRank": 30,
+    "prek12Rank": 2
+  },
+  {
+    "state": "Massachusetts",
+    "overallRank": 2,
+    "higherEducationRank": 27,
+    "prek12Rank": 1
+  },
+  {
+    "state": "Florida",
+    "overallRank": 3,
+    "higherEducationRank": 1,
+    "prek12Rank": 27
+  },
+  {
+    "state": "Washington",
+    "overallRank": 4,
+    "higherEducationRank": 2,
+    "prek12Rank": 19
+  },
+  {
+    "state": "Colorado",
+    "overallRank": 5,
+    "higherEducationRank": 9,
+    "prek12Rank": 14
+  },
+  {
+    "state": "Connecticut",
+    "overallRank": 6,
+    "higherEducationRank": 44,
+    "prek12Rank": 5
+  },
+  {
+    "state": "North Carolina",
+    "overallRank": 7,
+    "higherEducationRank": 12,
+    "prek12Rank": 28
+  },
+  {
+    "state": "Wisconsin",
+    "overallRank": 8,
+    "higherEducationRank": 11,
+    "prek12Rank": 16
+  },
+  {
+    "state": "Nebraska",
+    "overallRank": 9,
+    "higherEducationRank": 7,
+    "prek12Rank": 9
+  },
+  {
+    "state": "Utah",
+    "overallRank": 10,
+    "higherEducationRank": 6,
+    "prek12Rank": 22
+  },
+  {
+    "state": "Illinois",
+    "overallRank": 11,
+    "higherEducationRank": 31,
+    "prek12Rank": 7
+  },
+  {
+    "state": "Virginia",
+    "overallRank": 12,
+    "higherEducationRank": 14,
+    "prek12Rank": 8
+  },
+  {
+    "state": "New Hampshire",
+    "overallRank": 13,
+    "higherEducationRank": 37,
+    "prek12Rank": 3
+  },
+  {
+    "state": "Maryland",
+    "overallRank": 14,
+    "higherEducationRank": 17,
+    "prek12Rank": 11
+  },
+  {
+    "state": "Vermont",
+    "overallRank": 15,
+    "higherEducationRank": 41,
+    "prek12Rank": 4
+  },
+  {
+    "state": "New York",
+    "overallRank": 16,
+    "higherEducationRank": 15,
+    "prek12Rank": 25
+  },
+  {
+    "state": "Minnesota",
+    "overallRank": 17,
+    "higherEducationRank": 20,
+    "prek12Rank": 12
+  },
+  {
+    "state": "Iowa",
+    "overallRank": 18,
+    "higherEducationRank": 8,
+    "prek12Rank": 13
+  },
+  {
+    "state": "South Dakota",
+    "overallRank": 19,
+    "higherEducationRank": 10,
+    "prek12Rank": 23
+  },
+  {
+    "state": "California",
+    "overallRank": 20,
+    "higherEducationRank": 4,
+    "prek12Rank": 37
+  },
+  {
+    "state": "Wyoming",
+    "overallRank": 21,
+    "higherEducationRank": 3,
+    "prek12Rank": 34
+  },
+  {
+    "state": "Indiana",
+    "overallRank": 22,
+    "higherEducationRank": 39,
+    "prek12Rank": 6
+  },
+  {
+    "state": "Kansas",
+    "overallRank": 23,
+    "higherEducationRank": 13,
+    "prek12Rank": 15
+  },
+  {
+    "state": "Delaware",
+    "overallRank": 24,
+    "higherEducationRank": 16,
+    "prek12Rank": 24
+  },
+  {
+    "state": "North Dakota",
+    "overallRank": 25,
+    "higherEducationRank": 5,
+    "prek12Rank": 35
+  },
+  {
+    "state": "Georgia",
+    "overallRank": 26,
+    "higherEducationRank": 25,
+    "prek12Rank": 31
+  },
+  {
+    "state": "Hawaii",
+    "overallRank": 27,
+    "higherEducationRank": 21,
+    "prek12Rank": 30
+  },
+  {
+    "state": "Maine",
+    "overallRank": 28,
+    "higherEducationRank": 34,
+    "prek12Rank": 17
+  },
+  {
+    "state": "Idaho",
+    "overallRank": 29,
+    "higherEducationRank": 35,
+    "prek12Rank": 26
+  },
+  {
+    "state": "Missouri",
+    "overallRank": 30,
+    "higherEducationRank": 26,
+    "prek12Rank": 21
+  },
+  {
+    "state": "Ohio",
+    "overallRank": 31,
+    "higherEducationRank": 38,
+    "prek12Rank": 18
+  },
+  {
+    "state": "Montana",
+    "overallRank": 32,
+    "higherEducationRank": 19,
+    "prek12Rank": 20
+  },
+  {
+    "state": "Tennessee",
+    "overallRank": 33,
+    "higherEducationRank": 23,
+    "prek12Rank": 38
+  },
+  {
+    "state": "Texas",
+    "overallRank": 34,
+    "higherEducationRank": 32,
+    "prek12Rank": 33
+  },
+  {
+    "state": "Oregon",
+    "overallRank": 35,
+    "higherEducationRank": 22,
+    "prek12Rank": 39
+  },
+  {
+    "state": "Kentucky",
+    "overallRank": 36,
+    "higherEducationRank": 43,
+    "prek12Rank": 32
+  },
+  {
+    "state": "Pennsylvania",
+    "overallRank": 37,
+    "higherEducationRank": 50,
+    "prek12Rank": 10
+  },
+  {
+    "state": "Michigan",
+    "overallRank": 38,
+    "higherEducationRank": 42,
+    "prek12Rank": 29
+  },
+  {
+    "state": "Rhode Island",
+    "overallRank": 39,
+    "higherEducationRank": 48,
+    "prek12Rank": 36
+  },
+  {
+    "state": "Nevada",
+    "overallRank": 40,
+    "higherEducationRank": 18,
+    "prek12Rank": 48
+  },
+  {
+    "state": "Arkansas",
+    "overallRank": 41,
+    "higherEducationRank": 40,
+    "prek12Rank": 40
+  },
+  {
+    "state": "Oklahoma",
+    "overallRank": 42,
+    "higherEducationRank": 28,
+    "prek12Rank": 43
+  },
+  {
+    "state": "Mississippi",
+    "overallRank": 43,
+    "higherEducationRank": 33,
+    "prek12Rank": 45
+  },
+  {
+    "state": "South Carolina",
+    "overallRank": 44,
+    "higherEducationRank": 46,
+    "prek12Rank": 41
+  },
+  {
+    "state": "West Virginia",
+    "overallRank": 45,
+    "higherEducationRank": 45,
+    "prek12Rank": 42
+  },
+  {
+    "state": "Arizona",
+    "overallRank": 46,
+    "higherEducationRank": 24,
+    "prek12Rank": 44
+  },
+  {
+    "state": "Alabama",
+    "overallRank": 47,
+    "higherEducationRank": 47,
+    "prek12Rank": 49
+  },
+  {
+    "state": "Louisiana",
+    "overallRank": 48,
+    "higherEducationRank": 49,
+    "prek12Rank": 46
+  },
+  {
+    "state": "Alaska",
+    "overallRank": 49,
+    "higherEducationRank": 36,
+    "prek12Rank": 47
+  },
+  {
+    "state": "New Mexico",
+    "overallRank": 50,
+    "higherEducationRank": 29,
+    "prek12Rank": 50
+  }
+]
